@@ -13,6 +13,7 @@ public class MyPanel extends JPanel
         y = 100;
     }
     
+    @Override
     protected void paintComponent(Graphics g)
     {
         super.paintComponent(g);
